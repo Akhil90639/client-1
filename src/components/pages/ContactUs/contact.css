@@ -1,0 +1,135 @@
+
+.c-h1 { 
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 55px;
+  line-height: 60px;
+}
+
+.c-h3 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 40px;
+}
+
+.c-para {
+  font-family:"Poppins";
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: 500;
+  color: #505050;
+}
+
+.c-aec{
+  font-family:'Poppins';
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 600;
+}
+.c-img{
+  width: 96%;
+}
+.c-contact-form {
+  padding: 20px;
+}
+
+.contact-form .c-form-control {
+  min-height: 52px;
+  border-radius: 20px;
+}
+
+.contact-form .btn-primary {
+  background: linear-gradient(135deg, #FF6FD8 0%, #3813C2 100%);
+  border: none;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 500;
+  font-family: 'Poppins';
+  border-radius: 30px;
+}
+
+.contact-form .btn-primary:hover {
+  background: #a034c5;
+  transition: ease-in-out;
+}
+
+.contact-form label {
+  font-size: 19px;
+  line-height:26px;
+  font-weight:400;
+  font-family: "poppins";
+}
+
+.contact-form textarea {
+  resize: vertical;
+  min-height: 120px;
+  border-radius: 20px;
+}
+
+.map-style{
+  width: 95%;
+  height: 425px;
+}
+
+@media only screen and (max-width: 575px){
+	.map-style{
+    width: 360px;
+    height: 300px;
+  }
+}
+
+/* @media all and (min-width:480px){
+  .c-h1{
+    font-size: 60px;
+    line-height: 70px;
+  }
+  .c-h3{
+    font-size: 30px;
+  }
+  .c-para,
+  .c-contact-form label{
+    font-size: 18px;
+    line-height: 30px;
+  }
+  .c-aec{
+    font-size: 22px;
+    line-height: 34px;
+  }
+  .c-contact-form .btn-primary{
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 600;
+  }
+}
+
+@media all and (min-width:768px){
+  .c-h1{
+    font-size: 70px;
+    line-height: 80px;
+  }
+  .c-h3{
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .c-para,
+  .c-contact-form label{
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .c-aec{
+    font-size: 24px;
+    line-height: 40px;
+  }
+  .c-contact-form .btn-primary{
+    font-size: 34px;
+    line-height: 45px;
+  }
+  .c-contact-form .c-form-control,
+  .c-contact-form textarea {
+    width: 90%;
+    font-size:20px
+  }
+} */

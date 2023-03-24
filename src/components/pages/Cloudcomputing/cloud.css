@@ -1,0 +1,104 @@
+.section-title{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 58px;
+}
+.cl-para{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    color: #505050;
+}
+/* #features {
+    background: #fff
+} */
+
+#features .icon {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    border-radius: 4px;
+    text-align: center;
+    position: relative;
+    z-index: 1
+}
+
+#features .content-left span {
+    float: left
+}
+
+#features .content-left .text {
+    text-align: left
+}
+
+#features .content-right span {
+    float: left
+}
+
+#features .box-item {
+    box-shadow: 0 0 12px #f4f4f4;
+    padding: 15px;
+    line-height: 22px;
+    margin-top: 30px;
+    border-radius: 3px;
+    background-color: #fff;
+    -webkit-transition: all .3s ease-in-out;
+    -mox-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+#features .box-item .icon {
+    text-align: center;
+    margin: 12px;
+    -webkit-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    transition: all .2s linear
+}
+
+#features .box-item .icon i {
+    color: #008de2;
+    font-size: 30px;
+    -webkit-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    transition: all .2s linear
+}
+
+#features .box-item .text h4 {
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 31px;
+    -webkit-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    transition: all .2s linear
+}
+
+#features .box-item .text p {
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 16px;
+    color: #505050;
+}
+
+#features .box-item:hover {
+    box-shadow: 0 10px 22px 10px rgba(27, 38, 49, .1)
+}
+
+#features .box-item:hover h4 {
+    color: #008de2
+}
+
+#features .show-box {
+    margin-top: 50px
+}
+
+#features .show-box img {
+    width: 100%
+}

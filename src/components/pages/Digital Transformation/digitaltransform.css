@@ -1,0 +1,28 @@
+.dt-main-wrapper {
+    overflow-x: hidden;
+    font-family: "Poppins";
+}
+
+.dt-section-padding {
+    padding-top: 12%;
+}
+
+.dt-heading {
+    font-weight: 600;
+    font-size: 45px;
+}
+
+.dt-para, .dt-aiml-para, .dt-re-para, .dt-es-para, .dt-ds-para,.dt-cc-para {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    color: #505050;
+}
+
+.dt-img-3, .dt-img-4, .dt-img-6, .dt-img-7, .dt-img-8, .dt-img-9 {
+    width: 90%;
+}

@@ -1,0 +1,6 @@
+# https://www.qurinomsolutions.com
+User-agent: *
+Disallow: /images
+Disallow: /*.pdf$
+Disallow: /*comments
+Disallow: /member-benefits.html

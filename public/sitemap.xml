@@ -1,0 +1,2 @@
+import XML from './sitemap.xml';    
+<Route component={XML} path={'https:www.qurinomsolutions.com'} />

@@ -1,0 +1,33 @@
+
+.nav-item a{
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.navbar-brand img {
+  border-radius: 5px;
+}
+
+.nav-content {
+  padding-left: 23%;
+    padding-top: 15px;
+}
+.n-bag{
+  background-color: #ecebe8;
+}
+.dropdown-menu li a{
+  padding: 12px 18px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #706d6b;
+}
+.dropdown-menu {
+  border: none;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.nav-item {
+  margin-right: 20px;
+  text-align: center;
+}

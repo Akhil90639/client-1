@@ -1,0 +1,135 @@
+.co-heading {
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 120%;
+    margin-top: 30px;
+}
+.co-para{
+        font-family: 'poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+        padding-top: 20px;
+        padding-bottom: 18px;
+        /* width: 71%; */
+}
+.co-img{
+    padding-left: 431px;
+    padding-top: 33px;
+}
+.co-header{
+    padding-top: 53px;
+    padding-bottom: 79px;
+}
+.co-header h2,h5{
+    font-family: poppins;
+    line-height: 35px;
+    font-weight: 600;
+}
+.co-left h3{
+    /* text-align: center; */
+    line-height: 38px;
+    font-weight: 600;
+    font-size: 31px;
+}
+.co-left p{
+  /* text-align: center; */
+  line-height: 33px;
+  font-size: 18px;
+  font-family: 'Poppins';
+}
+.color-cards{
+    border: none;
+}
+.hoverwrap1 img{
+    width: 94%;
+    margin-left: 12px;
+    margin-top: 41px;
+}
+  /* (B) RESPONSIVE IMAGE */
+.hoverwrap img { 
+    width: 94%;
+    margin-left: 12px;
+    margin-top: 14px;
+}
+
+.hoverwrap2 img{
+  width: 94%;
+  margin-left: 12px;
+  margin-top: 115px;
+}
+.hoverwrap3 img{
+  width: 94%;
+  margin-left: 12px;
+  margin-top: 66px;
+}
+  
+  /* (C) CAPTION */
+  .hovercap {
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0px;
+    background-color: #5b5bc4;
+    color: white;
+    /* text-align: center; */
+    padding: 50px;
+    top: 0;
+    visibility: none; opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .hovercap1{
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0px;
+    background-color: #5b5bc4;
+    color: white;
+    top: 0;
+    padding: 69px;
+    visibility: none; opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .hovercap2{
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0px;
+    background-color: #5b5bc4;
+    color: white;
+    top: 0;
+    padding: 45px;
+    visibility: none; opacity: 0;
+    transition: opacity 0.3s;
+  }
+  .hovercap3{
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0px;
+    background-color: #5b5bc4;
+    color: white;
+    top: 0;
+    padding: 77px;
+    visibility: none; opacity: 0;
+    transition: opacity 0.3s;
+  }
+  /* (D) SHOW/HIDE */
+  
+  .hoverwrap:hover .hovercap {
+    visibility: visible; opacity: 1;
+  }
+  .hoverwrap1:hover .hovercap1 {
+    visibility: visible; opacity: 1;
+  }
+
+  .hoverwrap2:hover .hovercap2 {
+    visibility: visible; opacity: 1;
+  }
+
+  .hoverwrap3:hover .hovercap3{
+    visibility: visible; opacity: 1;
+  }
+  .c-img1{
+    width: 100%;
+  }
+

@@ -1,0 +1,131 @@
+li {
+    list-style: none;
+}
+
+.q-heading {
+    font-family:'Poppins';
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 85px;
+}
+
+.q-para {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    /* text-align: center; */
+    color: #505050;
+}
+
+.q-img-1 {
+    width: 100%;
+}
+
+.q-key {
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 50px;
+    align-items: center;
+}
+
+.q-l-para{
+    font-family: 'Poppins';
+    font-size: 15px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #505050;
+    margin-top: -10%;
+}
+
+.arrow {
+    width: 15%;
+}
+.q-btn-1{
+    background: rgb(253, 160, 85);
+    border-radius: 33px;
+    padding: 8px 44px 10px 40px;
+}
+
+.q-img-2 {
+    width: 100%;
+}
+
+@media all and (min-width:376px){
+    .q-heading{
+        margin-left: 7%;
+    }
+    .q-l-para{
+        font-size: 19px;
+        line-height: 24px;
+    }
+    .q-query{
+        font-size: 30px;
+        line-height: 40px;
+    }
+}
+@media all and (min-width:480px){
+    .q-heading{
+        margin-left: 15%;
+    }
+    .arrow{
+        width: 14%;
+    }
+}
+@media all and (min-width:576px){
+    .q-heading{
+        margin-left: 0;
+    }
+    .q-l-para{
+        margin-top: 0;
+    }
+    .arrow{
+        width: 80%;
+    }
+}
+@media all and (min-width:768px){
+    .q-img-1{
+        width: 100%;
+    }
+    .q-para{
+        font-size: 22px;
+        line-height: 34px;
+    }
+    .q-l-para{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .q-query{
+        font-size: 36px;
+        line-height: 46px;
+    }
+}
+@media all and (min-width:992px){
+    .q-l-para{
+        font-size: 22px;
+        line-height: 34px;
+    }
+    .arrow{
+        width: 65%;
+    }
+    .q-query{
+        font-size: 40px;
+        line-height: 52px;
+    }
+    .q-img-2{
+        width: 70%;
+    }
+}
+@media all and (min-width:1200px){
+    .q-para,
+    .q-l-para{
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .arrow{
+        width: 32%;
+    }
+}

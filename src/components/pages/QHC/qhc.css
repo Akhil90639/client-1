@@ -1,0 +1,88 @@
+.qh-heading {
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 45px;
+    align-items: center;
+}
+.qh-para {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+    font-family: "poppins";
+    color: #505050;
+}
+.qh-key{
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 28px;
+    align-items: center;
+}
+.qh-img-1{
+    width: 100%;
+}
+.qh-list{
+    font-size: 20px;
+}
+
+/* @media all and (min-width:376px){
+    .qh-heading{
+        font-size: 46px;
+        line-height: 50px;
+    }
+    .q-l-para{
+        font-size: 19px;
+        line-height: 24px;
+    }
+    .q-query{
+        font-size: 30px;
+        line-height: 40px;
+    }
+}
+@media all and (min-width:480px){
+    .qh-heading{
+        font-size: 46px;
+        line-height: 50px;
+    }
+    .arrow{
+        width: 14%;
+    }
+}
+@media all and (min-width:576px){
+    .qh-img-1{
+        width: 100%;
+    }
+    .q-l-para{
+        margin-top: 0;
+    }
+    .arrow{
+        width: 80%;
+    }
+}
+@media all and (min-width:768px){
+    .q-l-para{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .q-query{
+        font-size: 36px;
+        line-height: 46px;
+    }
+}
+@media all and (min-width:992px){
+    .q-query{
+        font-size: 40px;
+        line-height: 52px;
+    }
+    .q-img-2{
+        width: 70%;
+    }
+}
+@media all and (min-width:1200px){
+    .q-l-para{
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .arrow{
+        width: 40%;
+    }
+} */

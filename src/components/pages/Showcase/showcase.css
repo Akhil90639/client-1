@@ -1,0 +1,103 @@
+.s-heading{
+    font-family: 'Poppins';
+    font-size: 50px;
+    font-weight: 800;
+}
+.s-para{
+   font-family: "poppins";
+   font-size: 20px;
+   color: #5B5B5B;
+}
+.s-sm-head{
+  font-weight: 600;
+}
+
+.s-img-1{
+  width: 100%;
+}
+.rdneumorphism .card {
+  border-radius: 15px;
+  background: linear-gradient(145deg, #c1c1c1, white);
+  border: none;
+  box-shadow: -4px -4px 6px rgba(255, 255, 255, 0.5), 4px 4px 6px #bababa, inset -4px -4px 12px rgba(255, 255, 255, 0.1), inset 4px 4px 12px #dfdfdf;
+}
+.rdneumorphism .card.bg-primary {
+  background: #a5c9fe;
+  border-radius: 15px;
+  background: linear-gradient(145deg, #e1edff, #68a5fe);
+  border: none;
+  box-shadow: -4px -4px 6px rgba(255, 255, 255, 0.5), 4px 4px 6px #599bfe, inset -4px -4px 12px rgba(255, 255, 255, 0.1), inset 4px 4px 12px #a3c8fe;
+}
+.rdneumorphism .card.bg-primary .card-title {
+  color: #408cfd;
+}
+.rdneumorphism .card.bg-secondary {
+  background: #bcc1c6;
+  border-radius: 15px;
+  background: linear-gradient(145deg, #dde0e2, #9ca3a9);
+  border: none;
+  box-shadow: -4px -4px 6px rgba(255, 255, 255, 0.5), 4px 4px 6px #939ba2, inset -4px -4px 12px rgba(255, 255, 255, 0.1), inset 4px 4px 12px #bcc1c5;
+}
+.rdneumorphism .card.bg-secondary .card-title {
+  color: #868e96;
+}
+.rdneumorphism .card.bg-success {
+  background: #59e0a1;
+  border-radius: 15px;
+  background: linear-gradient(145deg, #8ceabe, #27d484);
+  border: none;
+  box-shadow: -4px -4px 6px rgba(255, 255, 255, 0.5), 4px 4px 6px #25c87c, inset -4px -4px 12px rgba(255, 255, 255, 0.1), inset 4px 4px 12px #57e0a1;
+}
+.rdneumorphism .card.bg-success .card-title {
+  color: #21b26f;
+}
+.rdneumorphism .card.bg-info {
+  background: #9ceafa;
+  border-radius: 15px;
+  background: linear-gradient(145deg, #d6f6fd, #62def7);
+  border: none;
+  box-shadow: -4px -4px 6px rgba(255, 255, 255, 0.5), 4px 4px 6px #54dbf6, inset -4px -4px 12px rgba(255, 255, 255, 0.1), inset 4px 4px 12px #9beafa;
+}
+.rdneumorphism .card.bg-info .card-title {
+  color: #3cd5f4;
+}
+.rdneumorphism .card.bg-warning {
+  background: #ffe7a0;
+  border-radius: 15px;
+  background: linear-gradient(145deg, #fff7dd, #ffd863);
+  border: none;
+  box-shadow: -4px -4px 6px rgba(255, 255, 255, 0.5), 4px 4px 6px #ffd454, inset -4px -4px 12px rgba(255, 255, 255, 0.1), inset 4px 4px 12px #ffe79e;
+}
+.rdneumorphism .card.bg-warning .card-title {
+  color: #ffce3a;
+}
+.rdneumorphism .card.bg-danger {
+  background: #f3b7bd;
+  border-radius: 15px;
+  background: linear-gradient(145deg, #fceced, #ea838d);
+  border: none;
+  box-shadow: -4px -4px 6px rgba(255, 255, 255, 0.5), 4px 4px 6px #e77681, inset -4px -4px 12px rgba(255, 255, 255, 0.1), inset 4px 4px 12px #f2b6bc;
+}
+.rdneumorphism .card.bg-danger .card-title {
+  color: #e4606d;
+}
+.rdneumorphism .card.bg-light {
+  background: white;
+  border-radius: 15px;
+  background: linear-gradient(145deg, white, #9893bf);
+  border: none;
+  box-shadow: -4px -4px 6px rgba(255, 255, 255, 0.5), 4px 4px 6px #d2d9df, inset -4px -4px 12px rgba(255, 255, 255, 0.1), inset 4px 4px 12px #fefefe;
+}
+.rdneumorphism .card.bg-light .card-title {
+  color: white;
+}
+.rdneumorphism .card.bg-dark {
+  background: #65727e;
+  border-radius: 15px;
+  background: linear-gradient(145deg, #84909c, #4a535c);
+  border: none;
+  box-shadow: -4px -4px 6px rgba(255, 255, 255, 0.5), 4px 4px 6px #434b53, inset -4px -4px 12px rgba(255, 255, 255, 0.1), inset 4px 4px 12px #65717d;
+}
+.rdneumorphism .card.bg-dark .card-title {
+  color: #383f45;
+}

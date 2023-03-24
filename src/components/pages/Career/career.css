@@ -1,0 +1,112 @@
+.ca-heading {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 70px;
+}
+.car-para {
+    font-weight: 800;
+    font-size: 17px;
+    font-family: 'Poppins';
+    line-height: 24px;
+}
+
+.ca-para {
+    color: #505050;
+    font-size: 18px;
+    line-height: 24px;
+    word-spacing: 3px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    /* text-align: center; */
+}
+
+.ca-ben {
+    font-family: 'Poppins';
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 700;
+}
+
+.contact-form {
+    padding: 30px;
+}
+.contact-form .c-form-control,
+.contact-form .btn {
+    border-radius: 20px;
+    /* min-height: 50px; */
+}
+
+.contact-form .btn-primary {
+    background: linear-gradient(135deg, #FF6FD8 0%, #3813C2 100%);
+    border: none;
+    font-size: 26px;
+    line-height:40px;
+    font-weight: 600;
+    font-family: 'Poppins';
+}
+
+.contact-form .btn-primary:hover {
+    background: #a034c5;
+}
+
+.contact-form label {
+    font-size: 18px;
+    font-family: "poppins";
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.contact-form textarea {
+    resize: vertical;
+}
+
+/* @media all and (min-width:376px){
+    .ca-heading{
+        margin-left: 15%;
+    }
+}
+@media all and (min-width:480px){
+    .ca-heading{
+        margin-left: 23%;
+    }
+}
+@media all and (min-width:768px){
+    .ca-heading{
+        margin-left: 0%;
+        font-size: 65px;
+        line-height: 80px;
+    }
+    .ca-para{
+        text-align: start;
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .car-para{
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .ca-ben{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .contact-form label {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .contact-form .btn-primary{
+        font-size: 30px;
+        line-height:45px;
+    }
+}
+@media all and (min-width:992px){
+    .ca-heading{
+        font-size: 68px;
+    }
+    .ca-para,
+    .car-para{
+        font-size: 20px;
+        line-height:30px;
+    }
+} */

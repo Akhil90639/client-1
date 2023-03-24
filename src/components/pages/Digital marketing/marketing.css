@@ -1,0 +1,29 @@
+.m-heading {
+  font-weight: 800;
+  font-size: 48px;
+}
+.m-img-1 {
+  width: 100%;
+}
+.wwd, .branding, .iqswp{
+  font-weight: 800;
+  font-size: 30px;
+}
+.wwd-para, .h-para, .m-para, .b-para, .l-para, .n-para, .r-para, .seo-para, .smo-para, .e-mark-para, .graphic-para, .inf-mark-para{
+  font-size: 20px;
+  color: #505050;
+  font-family: 'Poppins';
+}
+.m-img-5 {
+  float: right;
+}
+.m-img-6, .m-img-7, .m-img-8, .m-img-9, .m-img-10, .m-img-11, .m-img-12, .m-img-13, .m-img-14, .m-img-15, .m-img-16  {
+  width: 100%;
+}
+.story, .smo, .logo, .naming, .research, .seo, .e-mark, .graphic, .inf-mark  {
+  font-weight: 800;
+  font-size: 25px;
+}
+.li1 li{
+    /* list-style: disc; */
+}
